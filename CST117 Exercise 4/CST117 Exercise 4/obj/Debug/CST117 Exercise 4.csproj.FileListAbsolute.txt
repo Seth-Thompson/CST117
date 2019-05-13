@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\bin\Debug\CST117 Exercise 4.exe.config
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\bin\Debug\CST117 Exercise 4.exe
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\bin\Debug\CST117 Exercise 4.pdb
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117 Exercise 4.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117_Exercise_4.CST117Exercise4.resources
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117_Exercise_4.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117 Exercise 4.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117 Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117 Exercise 4.exe
+C:\Users\Seth\source\repos\CST117 Exercise 4\CST117 Exercise 4\obj\Debug\CST117 Exercise 4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\bin\Debug\CST117 Exercise 6.exe.config
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\bin\Debug\CST117 Exercise 6.exe
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\bin\Debug\CST117 Exercise 6.pdb
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117 Exercise 6.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117_Exercise_6.CST117Exercise6DiceRoller.resources
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117_Exercise_6.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117 Exercise 6.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117 Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117 Exercise 6.exe
+C:\Users\Seth\source\repos\CST117 Exercise 6\CST117 Exercise 6\obj\Debug\CST117 Exercise 6.pdb

@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\bin\Debug\CST-117 Exercise 1.exe.config
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\bin\Debug\CST-117 Exercise 1.exe
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\bin\Debug\CST-117 Exercise 1.pdb
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST-117 Exercise 1.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST_117_Exercise_1.Exercise1.resources
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST_117_Exercise_1.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST-117 Exercise 1.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST-117 Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST-117 Exercise 1.exe
+C:\Users\Seth\source\repos\CST-117 Exercise 1\CST-117 Exercise 1\obj\Debug\CST-117 Exercise 1.pdb

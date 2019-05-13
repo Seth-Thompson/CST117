@@ -1,0 +1,10 @@
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\bin\Debug\CST117 Exercise 8.exe.config
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\bin\Debug\CST117 Exercise 8.exe
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\bin\Debug\CST117 Exercise 8.pdb
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117 Exercise 8.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117_Exercise_8.CST117Exercise8CalorieCalculator.resources
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117_Exercise_8.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117 Exercise 8.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117 Exercise 8.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117 Exercise 8.exe
+C:\Users\Seth\source\repos\CST117 Exercise 8\CST117 Exercise 8\obj\Debug\CST117 Exercise 8.pdb

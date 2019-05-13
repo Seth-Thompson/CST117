@@ -1,0 +1,7 @@
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\bin\Debug\CST117 Exercise 9.exe.config
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\bin\Debug\CST117 Exercise 9.exe
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\bin\Debug\CST117 Exercise 9.pdb
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\obj\Debug\CST117 Exercise 9.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\obj\Debug\CST117 Exercise 9.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\obj\Debug\CST117 Exercise 9.exe
+C:\Users\Seth\source\repos\CST117 Exercise 9\CST117 Exercise 9\obj\Debug\CST117 Exercise 9.pdb
