@@ -1,0 +1,13 @@
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117 Milestone 4.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117_Milestone_4.MainForm.resources
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117_Milestone_4.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117 Milestone 4.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117 Milestone 4.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\bin\Debug\CST117 Milestone 4.exe.config
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\bin\Debug\CST117 Milestone 4.exe
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\bin\Debug\CST117 Milestone 4.pdb
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117 Milestone 4.exe
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117 Milestone 4.pdb
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117_Milestone_4.Add_Book.resources
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117_Milestone_4.Remove_Book.resources
+C:\Users\Seth\source\repos\CST117 Milestone 4\CST117 Milestone 4\obj\Debug\CST117_Milestone_4.Restock_Book.resources

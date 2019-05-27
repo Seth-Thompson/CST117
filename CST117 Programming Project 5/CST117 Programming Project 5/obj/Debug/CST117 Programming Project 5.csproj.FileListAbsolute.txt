@@ -1,0 +1,11 @@
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\bin\Debug\CST117 Programming Project 5.exe.config
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\bin\Debug\CST117 Programming Project 5.exe
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\bin\Debug\CST117 Programming Project 5.pdb
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117 Programming Project 5.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117_Programming_Project_5.CST117ProgrammingProject5.resources
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117_Programming_Project_5.LuckyNumberForm.resources
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117_Programming_Project_5.Properties.Resources.resources
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117 Programming Project 5.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117 Programming Project 5.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117 Programming Project 5.exe
+C:\Users\Seth\source\repos\CST117 Programming Project 5\CST117 Programming Project 5\obj\Debug\CST117 Programming Project 5.pdb
